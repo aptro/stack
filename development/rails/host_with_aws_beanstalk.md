@@ -1,4 +1,4 @@
-# Host the Rails app in AWS beanstalk
+# Host the Rails app with AWS beanstalk
 
 * Rails 6 ships with webpack for asset compilation which requires the Nodejs runtime.
 
