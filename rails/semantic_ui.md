@@ -1,1 +1,0 @@
-## Setting up semantic-ui
