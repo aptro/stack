@@ -2,9 +2,11 @@
 
 ## 1. Install the fomantic-ui-sass package via gem
 
+add these to your Gemfile
 ```js
+
 gem 'jquery-rails'
-gem 'fomantic-ui-sass' #add to your Gemfile
+gem 'fomantic-ui-sass' 
 
 bundle install
 ```
