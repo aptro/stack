@@ -4,7 +4,7 @@
 
 ## Blogging
 
-### [aptro.me](https://aptro.me)
+### aptro.me
 
 1. [Why Ghost](blogging/why_ghost.md)
 2. [How aptro.me is setup](blogging/aptro_me_setup.md)
