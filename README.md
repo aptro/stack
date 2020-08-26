@@ -13,7 +13,7 @@
 
 ### Tableplus
 
-1. [Sync setting with iCloud](tools/tableplus_sync_with_icloud.md)
+1. [Sync setting with iCloud](tools/tableplus/sync_with_icloud.md)
 
 ## Development
 
