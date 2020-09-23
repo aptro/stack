@@ -13,9 +13,7 @@ gem "sentry-raven"
 config.filter_parameters << :password
 ```
 
-3. Configuration
-
-Create config/sentry.rb and configure the DSN, and any other settings you need:
+3. Create config/sentry.rb and configure the DSN, and any other settings you need:
 
 ```rb
 Raven.configure do |config|
